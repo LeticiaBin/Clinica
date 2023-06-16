@@ -1,0 +1,13 @@
+ion-datetime {
+    &::part(day) {
+      border: 1px solid black;
+      border-radius: 50%;
+      width: 34px;
+      height: 34px;
+    }
+  }
+
+  ion-toolbar {
+    --opacity: 0.5;
+  }
+
